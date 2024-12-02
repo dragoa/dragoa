@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and improving my knowledge on Machine Learning stuffs :)
 - 👯 I’m looking to collaborate on interesting projects using AI and SWE.
 - 💬 Ask me about **Machine learning**, **Deep learning**, **SWE**
-[![trophy](https://github-profile-trophy.vercel.app/dragoa=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dragoa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
