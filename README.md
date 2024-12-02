@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working at **Rulex AI** as a Data Scientist.
+- 🌱 I’m currently learning and improving my knowledge on Machine Learning stuffs :)
+- 👯 I’m looking to collaborate on interesting projects using AI and SWE.
+- 💬 Ask me about **Machine learning**, **Deep learning**, **SWE**
+[![trophy](https://github-profile-trophy.vercel.app/dragoa=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
